@@ -62,7 +62,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVHR|39455|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -78,7 +78,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39464|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -614,7 +614,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|41878|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -646,7 +646,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30261|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -950,7 +950,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31796|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -998,7 +998,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31943|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1014,7 +1014,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31947|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1022,7 +1022,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PVES|31792|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1166,7 +1166,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PVES|31804|20260723|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1494,7 +1494,7 @@
       "date": "20260723",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PGMV|20772|20260723|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -1582,7 +1582,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PGMV|20768|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -1710,7 +1710,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21218|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -2088,54 +2088,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "SBTR|11762|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260723",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11762|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260723",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11763|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260723",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11763|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260723",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11764|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260723",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11764|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260723",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "0"
-    },
     "PBRM|22402|20260723|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
       "time": "04:10 PM",
@@ -2222,7 +2174,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|22403|20260723|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -2502,6 +2454,54 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
+      "status": "0"
+    },
+    "SBTR|11762|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11762|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11763|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11763|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11764|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11764|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
       "status": "0"
     },
     "PVHR|39517|20260724|PRIME": {
@@ -3888,54 +3888,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "SBTR|11775|20260724|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260724",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11775|20260724|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "2"
-    },
-    "SBTR|11776|20260724|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260724",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11776|20260724|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "1"
-    },
-    "SBTR|11777|20260724|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260724",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11777|20260724|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "2"
-    },
     "PGRA|21232|20260724|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "04:10 PM",
@@ -4166,7 +4118,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PSKL|22005|20260724|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -4606,6 +4558,54 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
+      "status": "2"
+    },
+    "SBTR|11775|20260724|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260724",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11775|20260724|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260724",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "2"
+    },
+    "SBTR|11776|20260724|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260724",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11776|20260724|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260724",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SBTR|11777|20260724|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260724",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11777|20260724|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260724",
+      "cat": "PLATINUM",
+      "price": "190.00",
       "status": "2"
     }
   },
