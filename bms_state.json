@@ -86,7 +86,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39464|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -150,7 +150,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39451|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -238,7 +238,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39461|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -262,7 +262,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39477|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -278,7 +278,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39452|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -294,7 +294,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "1"
     },
     "PVHR|39626|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -302,7 +302,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVHR|39470|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -310,7 +310,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39470|20260723|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -318,7 +318,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHR|39457|20260723|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -342,7 +342,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41881|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -358,7 +358,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41857|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -374,7 +374,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41866|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -414,7 +414,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|42064|20260723|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -422,7 +422,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|42064|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -470,7 +470,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41858|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -566,7 +566,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41883|20260723|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -646,7 +646,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30261|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -686,7 +686,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30383|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -718,7 +718,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30246|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -726,7 +726,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30246|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -766,7 +766,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30267|20260723|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -822,7 +822,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30384|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -838,7 +838,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30263|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -886,7 +886,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|30254|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -902,7 +902,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "0"
     },
     "PVHC|30259|20260723|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -918,7 +918,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31946|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -934,7 +934,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31791|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -966,7 +966,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31802|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -982,7 +982,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVES|31807|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1014,7 +1014,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31947|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1078,7 +1078,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31808|20260723|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -1230,7 +1230,7 @@
       "date": "20260723",
       "cat": "PREMIUM",
       "price": "173.00",
-      "status": "0"
+      "status": "1"
     },
     "PVSR|26037|20260723|ECONOMY": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1270,7 +1270,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVSR|26032|20260723|PREMIUM": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1294,7 +1294,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVSR|26045|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1414,7 +1414,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26046|20260723|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1438,7 +1438,7 @@
       "date": "20260723",
       "cat": "PREMIUM",
       "price": "173.00",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26039|20260723|ECONOMY": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1478,7 +1478,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVSR|26034|20260723|PREMIUM": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1518,7 +1518,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|20767|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -1534,7 +1534,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PGMV|20853|20260723|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
@@ -1688,13 +1688,61 @@
       "price": "54.35",
       "status": "0"
     },
+    "SBTR|11762|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SBTR|11762|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11763|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11763|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11764|20260723|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260723",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "0"
+    },
+    "SBTR|11764|20260723|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260723",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "0"
+    },
     "PGRA|21292|20260723|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "04:05 PM",
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21292|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1710,7 +1758,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PGRA|21218|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1726,7 +1774,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21223|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1758,7 +1806,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21214|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1822,7 +1870,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21211|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1838,7 +1886,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21215|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1870,7 +1918,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21225|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1902,7 +1950,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21212|20260723|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -1910,54 +1958,6 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
-    },
-    "SBTR|11762|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260723",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11762|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260723",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11763|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260723",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11763|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260723",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11764|20260723|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260723",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11764|20260723|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260723",
-      "cat": "PLATINUM",
-      "price": "190.00",
       "status": "0"
     },
     "PSKL|21914|20260723|PRIME": {
@@ -1982,7 +1982,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PSKL|21909|20260723|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -2094,7 +2094,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PSKL|21910|20260723|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -2158,7 +2158,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PBRM|22396|20260723|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -2206,7 +2206,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|22399|20260723|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -2286,7 +2286,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|22408|20260723|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -2302,7 +2302,7 @@
       "date": "20260723",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|22404|20260723|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -2350,7 +2350,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20315|20260723|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2358,7 +2358,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PABC|20325|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2382,7 +2382,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20396|20260723|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2398,7 +2398,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20321|20260723|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2422,7 +2422,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20326|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2438,7 +2438,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20397|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2462,7 +2462,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20322|20260723|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2470,7 +2470,7 @@
       "date": "20260723",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "3"
     },
     "PABC|20317|20260723|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2494,7 +2494,7 @@
       "date": "20260723",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "2"
     },
     "PABC|20327|20260723|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -2542,7 +2542,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "3"
     },
     "PVHR|39510|20260724|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -2590,7 +2590,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHR|39502|20260724|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -2614,7 +2614,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39522|20260724|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -2710,7 +2710,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "1"
     },
     "PVHR|39503|20260724|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -2822,7 +2822,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|41911|20260724|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -2862,7 +2862,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|41916|20260724|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -2870,7 +2870,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41927|20260724|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -2942,7 +2942,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|41917|20260724|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -3014,7 +3014,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|41918|20260724|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -3038,7 +3038,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PVHC|30293|20260724|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3158,7 +3158,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVHC|30285|20260724|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3174,7 +3174,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "3"
+      "status": "2"
     },
     "PVHC|30290|20260724|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3190,7 +3190,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|30295|20260724|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3198,7 +3198,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|30295|20260724|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3206,7 +3206,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|30300|20260724|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3230,7 +3230,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PVHC|30286|20260724|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3246,7 +3246,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "3"
+      "status": "2"
     },
     "PVHC|30291|20260724|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -3318,7 +3318,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PVES|31831|20260724|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -3350,7 +3350,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVES|31842|20260724|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -3470,7 +3470,7 @@
       "date": "20260724",
       "cat": "ECONOMY",
       "price": "163.00",
-      "status": "2"
+      "status": "1"
     },
     "PVSR|26065|20260724|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -3566,7 +3566,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26070|20260724|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -3614,7 +3614,7 @@
       "date": "20260724",
       "cat": "PREMIUM",
       "price": "173.00",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26061|20260724|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -3888,6 +3888,54 @@
       "price": "54.35",
       "status": "0"
     },
+    "SBTR|11775|20260724|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260724",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "3"
+    },
+    "SBTR|11775|20260724|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "04:20 PM",
+      "date": "20260724",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "3"
+    },
+    "SBTR|11776|20260724|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260724",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SBTR|11776|20260724|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "08:00 PM",
+      "date": "20260724",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "1"
+    },
+    "SBTR|11777|20260724|Elite": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260724",
+      "cat": "Elite",
+      "price": "190.00",
+      "status": "2"
+    },
+    "SBTR|11777|20260724|PLATINUM": {
+      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
+      "time": "11:30 PM",
+      "date": "20260724",
+      "cat": "PLATINUM",
+      "price": "190.00",
+      "status": "2"
+    },
     "PGRA|21232|20260724|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
       "time": "04:10 PM",
@@ -3974,7 +4022,7 @@
       "date": "20260724",
       "cat": "PRIME",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21248|20260724|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -4046,7 +4094,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21254|20260724|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -4063,54 +4111,6 @@
       "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
-    },
-    "SBTR|11775|20260724|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260724",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11775|20260724|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "04:20 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "2"
-    },
-    "SBTR|11776|20260724|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260724",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11776|20260724|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "08:00 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "1"
-    },
-    "SBTR|11777|20260724|Elite": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260724",
-      "cat": "Elite",
-      "price": "190.00",
-      "status": "0"
-    },
-    "SBTR|11777|20260724|PLATINUM": {
-      "venue": "SB Cinemas (Sri Bhagavathi) 4K Atmos: Poonamallee",
-      "time": "11:30 PM",
-      "date": "20260724",
-      "cat": "PLATINUM",
-      "price": "190.00",
-      "status": "2"
     },
     "PSKL|21929|20260724|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -4310,7 +4310,7 @@
       "date": "20260724",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "3"
     },
     "PBRM|22430|20260724|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4318,7 +4318,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PBRM|22475|20260724|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4350,7 +4350,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "0"
     },
     "PBRM|22446|20260724|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4390,7 +4390,7 @@
       "date": "20260724",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "2"
     },
     "PBRM|22431|20260724|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4398,7 +4398,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PBRM|22417|20260724|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4406,7 +4406,7 @@
       "date": "20260724",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "1"
     },
     "PBRM|22417|20260724|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4414,7 +4414,7 @@
       "date": "20260724",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "2"
+      "status": "1"
     },
     "PBRM|22477|20260724|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4454,7 +4454,7 @@
       "date": "20260724",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "2"
+      "status": "3"
     },
     "PBRM|22432|20260724|BUDGET": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -4542,7 +4542,7 @@
       "date": "20260724",
       "cat": "CLASSIC",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PABC|20371|20260724|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
